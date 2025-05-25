@@ -104,4 +104,8 @@ Climate data analysis often begins with data scattered across multiple files, ea
 
 The script generates a single Excel file named `master_database.xlsx` within the `Outcome/` directory. This file contains a sheet named `ERA5_master_database` with the integrated, cleaned, and transformed data, ready for analysis. The columns are ordered as specified in the script.
 
+## Contact
+
+For any questions or feedback, please contact [franklinparedes75@gmail.com](franklinparedes75@gmail.com).
+
 ---
